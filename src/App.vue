@@ -11,5 +11,7 @@ import Map from './components/Map.vue';
 </template>
 
 <style scoped>
+body { margin: 0; padding: 0; }
+        html, body, #map { height: 100%; }
 
 </style>
